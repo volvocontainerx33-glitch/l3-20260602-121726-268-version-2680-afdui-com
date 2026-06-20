@@ -1,0 +1,12 @@
+{
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 12,
+  "category_assignment_total": 2000,
+  "html_page_count": 2016,
+  "missing_baidu_html": [],
+  "image_files_in_package": [],
+  "missing_detail_files": [],
+  "missing_category_links": [],
+  "player_check_sample_failures": []
+}
